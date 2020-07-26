@@ -3,12 +3,17 @@
 
 <!-- > 《MySQL入门很简单》学习笔记 -->
 
-<!-- - 简单、轻便 (压缩后 ~21kB) -->
-<!-- - 无需生成 html 文件 -->
-<!-- - 众多主题 -->
+
+> 学习 MySQL 时的笔记文档，顺便演示下 markdown + docsify 快速生成在线文档
+
+- 支持目录、搜索、mermaid
+- github.io 快速发布
+- 老金出品，必属精品
+
+![Talk is cheap, show me the code.](https://img.moegirl.org/common/thumb/8/88/Talkcheap.png/280px-Talkcheap.png)
 
 [GitHub](https://github.com/jinqinghua/kim-doc-mysql)
-[Get Started](#/chapter/Chapter01)
+[Get Started](#/?id=《mysql入门很简单》学习笔记)
 
 <!-- 背景图片 -->
 <!-- ![](_images/bg.jpg) -->
