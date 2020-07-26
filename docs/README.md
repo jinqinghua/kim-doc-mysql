@@ -1,0 +1,21 @@
+# 《MySQL入门很简单》学习笔记
+---
+
+* [第 1 章 数据库概述](chapter/Chapter01)
+* [第 2 章 Windows平台下安装与配置MySQL](chapter/Chapter02)
+* [第 3 章 Linux平台下安装与配置MySQL](chapter/Chapter03)
+* [第 4 章 MySQL数据类型](chapter/Chapter04)
+* [第 5 章 操作数据库](chapter/Chapter05)
+* [第 6 章 创建、修改和删除表](chapter/Chapter06)
+* [第 7 章 索引](chapter/Chapter07)
+* [第 8 章 视图](chapter/Chapter08)
+* [第 9 章 触发器](chapter/Chapter09)
+* [第10章 查询数据](chapter/Chapter10)
+* [第11章 插入、更新与删除数据](chapter/Chapter11)
+* [第12章 MySQL运算符](chapter/Chapter12)
+* [第13章 MySQL函数](chapter/Chapter13)
+* [第14章 存储过程和函数](chapter/Chapter14)
+* [第15章 MySQL用户管理](chapter/Chapter15)
+* [第16章 数据备份与还原](chapter/Chapter16)
+* [第17章 MySQL日志](chapter/Chapter17)
+* [第18章 性能优化](chapter/Chapter18)
