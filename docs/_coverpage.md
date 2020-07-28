@@ -10,7 +10,7 @@
 - github.io 快速发布
 - 老金出品，必属精品
 
-![Talk is cheap, show me the code.](https://img.moegirl.org/common/thumb/8/88/Talkcheap.png/280px-Talkcheap.png)
+![Talk is cheap, show me the code.](_images/code.jpg)
 
 [GitHub](https://github.com/jinqinghua/kim-doc-mysql)
 [Get Started](#/?id=《mysql入门很简单》学习笔记)
